@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "65d08a42f48c73727325a44d",
+    "picture": "https://mir-s3-cdn-cf.behance.net/projects/404/19c3ea137254053.Y3JvcCwzMzcyLDI2MzcsMCww.jpg",
+    "price": 32,
+    "color": "green",
+    "name": "Olsen Robles",
+    "about": "Enim nisi ad cupidatat quis cupidatat reprehenderit ex nisi voluptate nisi dolore nisi. Irure nisi qui dolor cillum ut aute aliquip ipsum cillum deserunt aute."
+  },
+  {
+    "_id": "65d08a424de26a7c81bf4b02",
+    "picture": "https://i.ytimg.com/vi/Gx1AmgwriHQ/maxresdefault.jpg",
+    "price": 36,
+    "color": "brown",
+    "name": "Whitfield Clements",
+    "about": "Sint elit magna duis ad exercitation quis ut officia est. Culpa proident Lorem laboris eu proident reprehenderit adipisicing deserunt nostrud quis velit. "
+  },
+  {
+    "_id": "65d08a42c20f98f39857e966",
+    "picture": "https://i.ytimg.com/vi/U71VKi2UZBs/maxresdefault.jpg",
+    "price": 32,
+    "color": "blue",
+    "name": "Chelsea Mccullough",
+    "about": "Reprehenderit qui quis incididunt tempor ad. Fugiat aliqua velit ea ea velit dolor consequat laborum aliqua mollit. Qui veniam nisi nulla nisi est pariatur. "
+  },
+  {
+    "_id": "65d08a424cdfd3d4a61311ec",
+    "picture": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/779b8c160168495.63ae5491e0e30.jpg",
+    "price": 22,
+    "color": "brown",
+    "name": "Bowen Oneil",
+    "about": "Sint excepteur esse minim id. Eiusmod nulla adipisicing enim fugiat Lorem ex aute reprehenderit esse fugiat cupidatat deserunt. Lorem esse non deserunt non "
+  },
+  {
+    "_id": "65d08a4251f62b6fe0a7ff3d",
+    "picture": "https://pbs.twimg.com/media/EtANbiEU4AAYcxN.jpg",
+    "price": 28,
+    "color": "green",
+    "name": "Corine Webster",
+    "about": "Eu commodo cillum labore incididunt ex ut reprehenderit culpa nulla ex. Elit est in quis nulla nostrud sit incididunt proident adipisicing dolore. Esse aliqudsffdsfdfsip "
+  },
+  {
+    "_id": "65d08a425497e74c49900fb5",
+    "picture": "https://i.pinimg.com/originals/a6/93/dc/a693dcff2e5478e29cc0bb19961c304f.jpg",
+    "price": 40,
+    "color": "brown",
+    "name": "Terra Booth",
+    "about": "Consequat in reprehenderit qui velit exercitation aute ut velit anim aliquip minim ipsum culpa. Et anim do sit occaecat id nulla pariatur deserunt. Nostrud officia"
+  },
+  {
+    "_id": "65d08a42d5dac6db6b2c4fce",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8QhTZIKJlktGkt-SHAGwhayIw32_Y1IFlkg&usqp=CAU",
+    "price": 35,
+    "color": "brown",
+    "name": "Glenda Melendez",
+    "about": "Aliqua commodo sint minim pariatur et. Lorem sint consequat ipsum est nulla anim et qui laborum proident eiusmod. Ullamco eiusmod aute tempor consectetur.\r\n"
+  },
+  {
+    "_id": "65d08a423d4729df34123573",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3_wPLT60WRrgZfaRXeBZcONbQb_YpygfQ9Q&usqp=CAU",
+    "price": 38,
+    "color": "green",
+    "name": "Katrina Pratt",
+    "about": "Duis nostrud irure enim dolore velit commodo id eiusmod sint anim velit fugiat officia. Sunt ea incididunt adipisicing proident ad reprehenderit ea. Non minim e"
+  }
+]
